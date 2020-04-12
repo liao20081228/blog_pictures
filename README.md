@@ -1,6 +1,6 @@
 this repository is used to store blog pictures. to 3.31日
-```mermaid!
-sequenceDiagram
+
+```sequence
 title: 序列图sequence(示例)
 participant A
 participant B
